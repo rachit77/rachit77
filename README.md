@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
-<h3 align="center">I am a tech explorer and blockchain enthusiast.</h3>
+
 
 - 📫 How to reach me **rachitsonthalia02@gmail.com**
 
@@ -9,7 +9,6 @@
 <a href="https://medium.com/@rachit_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rachit_s" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rachit02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rachit02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/the_manipulator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachitsonthalia02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rachitsonthalia02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rachitsonthalia02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
